@@ -31,3 +31,5 @@ Este é um exemplo simples de como usar o PDO (PHP Data Objects) para conectar-s
 ## Observações
 - Certifique-se de substituir as informações de conexão com o banco de dados (localhost, MeuBancoDeDados, root, root) com suas próprias informações, se necessário.
 - Verifique se o nome da tabela (usuarios) está correto no seu banco de dados.
+
+![image](https://github.com/SSar4/PHP_DATA_OBJECTs/assets/33840492/55971fc6-1e03-4b14-9634-f38cb8d07701)
